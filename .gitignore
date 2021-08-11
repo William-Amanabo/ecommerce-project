@@ -1,0 +1,20 @@
+/build
+.env
+.DS_Store
+/coverage
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/node_modules/
+frontend/node_modules/
+backend/sessions
+backend/TODO.txt
+ecommerce-project.code-workspace
+frontend/backup
+frontend/build
+frontend/ecommerce.code-workspace
+frontend/package-lock.json
+frontend/src/Location of files.txt
+frontend/src/ReactCanvas.code-workspace
+Problems.txt
